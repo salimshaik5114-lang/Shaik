@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Pay App</string>
+    <string name="hint_input">Text / UPI ID / Link daalein</string>
+    <string name="btn_generate">₹1 Pay Karke QR Banayein</string>
+    <string name="btn_share">QR Share Karein</string>
+    <string name="btn_save">QR Save Karein</string>
+    <string name="payment_desc">QR Code Generation Fee</string>
+</resources>
