@@ -1,4 +1,4 @@
-# QR Pay App (Android + Kotlin)
+.github/workflows/build.yml# QR Pay App (Android + Kotlin)
 
 Ye app user ko text/UPI ID/link daalne deti hai, **₹1 payment seedhe aapke UPI ID par**
 (koi gateway/API key ke bina — direct PhonePe/GPay/Paytm se) lene ke baad QR code generate
